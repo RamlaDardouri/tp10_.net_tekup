@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\models\\souscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\models\\souscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\repositories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\repositories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\repositories\\icategoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\repositories\\icategoryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\tp10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\tp10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\tp10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\tp10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|e:\\glsi--semestre-2\\.net\\repos_sources\\tp10\\tp10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DECB7FE-9933-44DA-9EB1-D53A28AD479C}|TP10\\TP10.csproj|solutionrelative:tp10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Migrations\\20240608100850_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP10\\Migrations\\20240608100850_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TP10\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TP10\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T10:41:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TP10.http",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\TP10.http",
+              "RelativeDocumentMoniker": "TP10\\TP10.http",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\TP10.http",
+              "RelativeToolTip": "TP10\\TP10.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-08T10:40:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TP10\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TP10\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:38:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TP10\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TP10\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:30:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TP10\\appsettings.Development.json",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\appsettings.Development.json",
+              "RelativeToolTip": "TP10\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T10:43:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TP10\\WeatherForecast.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\WeatherForecast.cs",
+              "RelativeToolTip": "TP10\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:40:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Repositories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TP10\\Repositories\\CategoryService.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Repositories\\CategoryService.cs",
+              "RelativeToolTip": "TP10\\Repositories\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:14:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryInterface.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Repositories\\ICategoryInterface.cs",
+              "RelativeDocumentMoniker": "TP10\\Repositories\\ICategoryInterface.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Repositories\\ICategoryInterface.cs",
+              "RelativeToolTip": "TP10\\Repositories\\ICategoryInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:13:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240608100850_first migration.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Migrations\\20240608100850_first migration.cs",
+              "RelativeDocumentMoniker": "TP10\\Migrations\\20240608100850_first migration.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Migrations\\20240608100850_first migration.cs",
+              "RelativeToolTip": "TP10\\Migrations\\20240608100850_first migration.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:08:50.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TP10",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\TP10.csproj",
+              "RelativeDocumentMoniker": "TP10\\TP10.csproj",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\TP10.csproj",
+              "RelativeToolTip": "TP10\\TP10.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T10:07:50.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Program.cs",
+              "RelativeDocumentMoniker": "TP10\\Program.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Program.cs",
+              "RelativeToolTip": "TP10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:02:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TP10\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TP10\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:00:19.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\appsettings.json",
+              "RelativeDocumentMoniker": "TP10\\appsettings.json",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\appsettings.json",
+              "RelativeToolTip": "TP10\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T09:48:30.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SousCategorie.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\SousCategorie.cs",
+              "RelativeDocumentMoniker": "TP10\\Models\\SousCategorie.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\SousCategorie.cs",
+              "RelativeToolTip": "TP10\\Models\\SousCategorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:40:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "TP10\\Models\\Categorie.cs",
+              "ToolTip": "E:\\Glsi--semestre-2\\.Net\\Repos_sources\\TP10\\TP10\\Models\\Categorie.cs",
+              "RelativeToolTip": "TP10\\Models\\Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:39:57.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
